@@ -1,0 +1,43 @@
+[2018-08-21 09:49:19.447751] [INFO] [Selector_new2.py] [deselect_by_text_list] [1460] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 09:50:10.412864] [INFO] [Selector_new2.py] [deselect_by_text_list] [1460] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 09:51:43.513189] [INFO] [Selector_new2.py] [deselect_by_text_list] [1460] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 09:53:14.636591] [INFO] [Selector_new2.py] [deselect_by_text_list] [1460] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 09:54:10.307775] [INFO] [Selector_new2.py] [deselect_by_text_list] [1460] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 09:54:13.004929] [INFO] [Selector_new2.py] [deselect_by_text_list] [1476] 所取消的选项为：
+[2018-08-21 09:54:13.005929] [INFO] [Selector_new2.py] [deselect_by_text_list] [1477] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:01:09.416746] [INFO] [Selector_new2.py] [deselect_by_text_list] [1479] 通过选项文本设置选项（取消已选选项）
+[2018-08-21 10:01:47.629932] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:01:54.283313] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:01:54.284313] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:08:34.586209] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:08:41.293592] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:08:41.294592] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:08:41.341595] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-21 10:08:41.346595] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：
+[2018-08-21 10:10:23.494438] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:10:30.178820] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:10:30.179820] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:10:43.251568] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-21 10:11:13.868319] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：
+[2018-08-21 10:13:35.303409] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:13:41.969790] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:13:41.970790] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:13:42.040794] [INFO] [Selector_new2.py] [get_value] [1505] 获取当前选择框中的值
+[2018-08-21 10:13:42.052795] [INFO] [Selector_new2.py] [get_value] [1506] 当前选择框中的值为：
+[2018-08-21 10:13:42.056795] [INFO] [Selector_new2.py] [get_value] [1507] 
+[2018-08-21 10:14:47.674548] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:14:54.343930] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:14:54.344930] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:14:54.392932] [INFO] [Selector_new2.py] [get_value] [1505] 获取当前选择框中的值
+[2018-08-21 10:14:54.398933] [INFO] [Selector_new2.py] [get_value] [1506] 当前选择框中的值为：
+[2018-08-21 10:14:54.421934] [INFO] [Selector_new2.py] [get_value] [1507] 新上报, 已取消, 已确认, 检修中
+[2018-08-21 10:15:47.596976] [INFO] [Selector_new2.py] [select_by_text_list] [1451] 通过选项文本设置选项
+[2018-08-21 10:15:54.296359] [INFO] [Selector_new2.py] [select_by_text_list] [1467] 所选择的选项为：
+[2018-08-21 10:15:54.297359] [INFO] [Selector_new2.py] [select_by_text_list] [1468] ['新上报', '已取消', '已确认', '检修中']
+[2018-08-21 10:15:54.345361] [INFO] [Selector_new2.py] [get_value] [1505] 获取当前选择框中的值
+[2018-08-21 10:15:54.364363] [INFO] [Selector_new2.py] [get_value] [1506] 当前选择框中的值为：新上报, 已取消, 已确认, 检修中
+[2018-08-21 10:15:54.378363] [INFO] [Selector_new2.py] [get_value] [1507] 新上报, 已取消, 已确认, 检修中
+[2018-08-21 11:39:32.150351] [ERROR] [Selector_new2.py] [mouse_moves_to] [1524] 操作有误，原始数据列表没有显示
+[2018-08-21 11:40:08.857450] [ERROR] [Selector_new2.py] [mouse_moves_to] [1524] 操作有误，原始数据列表没有显示
+[2018-08-21 11:41:09.730932] [ERROR] [Selector_new2.py] [mouse_moves_to] [1524] 操作有误，原始数据列表没有显示
+[2018-08-21 11:42:10.839427] [ERROR] [Selector_new2.py] [mouse_moves_to] [1524] 操作有误，原始数据列表没有显示

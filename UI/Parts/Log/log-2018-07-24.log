@@ -1,0 +1,11 @@
+[2018-07-24 14:59:59.847449] [INFO] [BaseObject.py] [__init__] [11] Hello
+[2018-07-24 15:02:15.131129] [INFO] [BaseObject.py] [__init__] [11] Hello
+[2018-07-24 15:08:28.057851] [INFO] [BaseObject.py] [__init__] [12] 1's type error,mast be "webdriver.chrome.webdriver.WebDriver"
+[2018-07-24 15:08:51.152441] [INFO] [BaseObject.py] [__init__] [12] 1's type error,must be "webdriver.chrome.webdriver.WebDriver"
+[2018-07-24 15:11:12.127203] [INFO] [BaseObject.py] [__init__] [12] 1's type error,must be "webdriver.chrome.webdriver.WebDriver"
+[2018-07-24 15:42:27.234739] [INFO] [BaseObject.py] [select_by_id] [36] 通过元素id属性设置选项
+[2018-07-24 20:51:28.987808] [INFO] [BaseObject.py] [__init__] [11] <selenium.webdriver.remote.webelement.WebElement (session="0bebaf11031731c5ee11aacd312cd7d3", element="0.6870251725027869-1")>'s type error,must be "webdriver.chrome.webdriver.WebDriver"
+[2018-07-24 20:59:51.541783] [INFO] [BaseObject.py] [__init__] [11] <selenium.webdriver.remote.webelement.WebElement (session="13143086fafa98e704dce42e465d17b1", element="0.8369494599373843-1")>'s type error,must be "webdriver.chrome.webdriver.WebDriver"
+[2018-07-24 21:03:01.871642] [INFO] [BaseObject.py] [select_by_order] [57] 通过元素在HTML中的顺序设置选项
+[2018-07-24 21:12:48.109060] [INFO] [BaseObject.py] [select_by_order] [57] 通过元素在HTML中的顺序设置选项
+[2018-07-24 21:12:49.422710] [INFO] [BaseObject.py] [select_by_order] [57] 通过元素在HTML中的顺序设置选项

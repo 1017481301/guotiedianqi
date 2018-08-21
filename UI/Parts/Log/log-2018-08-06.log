@@ -1,0 +1,8 @@
+[2018-08-06 17:29:24.271934] [INFO] [BaseObject.py] [select_by_visible_text] [101] 通过选项文本设置选项
+[2018-08-06 17:29:26.229046] [INFO] [BaseObject.py] [select_by_visible_text] [101] 通过选项文本设置选项
+[2018-08-06 17:29:28.965202] [INFO] [BaseObject.py] [select_by_order] [77] 通过元素在HTML中的顺序设置选项
+[2018-08-06 17:29:30.514291] [INFO] [BaseObject.py] [select_by_order] [77] 通过元素在HTML中的顺序设置选项
+[2018-08-06 17:29:32.766419] [INFO] [BaseObject.py] [get_options] [44] 获取所有选项
+[2018-08-06 17:40:44.355832] [INFO] [BaseObject.py] [get_options] [44] 获取所有选项
+[2018-08-06 17:40:44.634848] [INFO] [BaseObject.py] [get_value] [35] 获取当前选择框中的值
+[2018-08-06 17:40:44.643849] [INFO] [BaseObject.py] [select_by_order] [77] 通过元素在HTML中的顺序设置选项

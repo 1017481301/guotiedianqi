@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named posix - imported by os, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named _posixsubprocess - imported by subprocess, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named readline - imported by cmd, code, pdb, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named _winreg - imported by platform, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named 'java.lang' - imported by platform, D:\测试开发\UI\Dao\tools\LogAnalysis.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named termios - imported by tty, D:\测试开发\UI\Dao\tools\LogAnalysis.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named _dummy_threading - imported by dummy_threading, D:\测试开发\UI\Dao\tools\LogAnalysis.py
+missing module named 'org.python' - imported by copy, D:\测试开发\UI\Dao\tools\LogAnalysis.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\测试开发\UI\Dao\tools\LogAnalysis.py, netrc, getpass
+missing module named org - imported by pickle, D:\测试开发\UI\Dao\tools\LogAnalysis.py

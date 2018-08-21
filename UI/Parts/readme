@@ -1,0 +1,30 @@
+整理表格封装特性：
+单元格名称标签：
+    示例：
+        <label class="control-label">报警级别：</label>
+        <td id="org_name_ju" height="25" align="right">局：</td>
+        <td height="25"                  align="right">线路名称：</td>
+        <th>                                         &nbsp;时间：</th>
+        <span class="so_LT" style="width: 73px; margin-top: 5px;">组织机构：</span>
+    结论：直接获取与单元格值平级的元素的文本
+单元格值：
+    示例：
+        <input type="text" id="txtloccode" class="smallInput" style="width: 145px" placeholder="请输入关键字">
+        <input id="startdate" class="Wdate" type="text" onclick="WdatePicker({ dateFmt: 'yyyy-MM-dd HH:mm:ss', isShowToday: false })" style="width: 140px" readonly="readonly">
+        <input id="citySel" type="text" value="" code="" style="width: 145px; margin: 0;">
+
+        <button type="button" class="ui-multiselect ui-widget ui-state-default ui-corner-all" title="状态" aria-haspopup="true" tabindex="0" style="width: 346px;">
+            <span class="ui-icon ui-icon-triangle-1-s"></span><span>新上报, 已确认, 已计划, 已关闭</span></button>
+
+        <input type="text" id="startkm" class="smallInput validate[custom[integerPositive],maxSize[8]]" style="width: 140px">
+        <select id="txt_bow" name="txt_bow" style="width: 149px; margin: 0; border-radius: 3px;">
+            <option value="0">全部</option>
+            <option value="A弓">A弓</option>
+            <option value="B弓">B弓</option></select>
+        <input type="text" id="ReportPerson" style="width: 140px;margin: 0;">
+        <input id="txt_fzdw" name="txt_fzdw" style="width: 85%; margin-bottom: 9px;" type="text">
+        <textarea name="UtxtDefect" id="UtxtDefect" rows="3" style="height: 40px; width: 100%;"></textarea>
+        <input name="UtxtReporter" type="text" id="UtxtReporter" style="width: 100px;">
+        <input name="Ureportdate" type="text" id="Ureportdate" class="Wdate" onclick="WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss'})" style="width: 150px">
+        <a href="#" onclick="portOutwordSingle(F586d789307c748c791c44e105781d24b)">导出报告</a>
+    结论：包含如下标签input、button、select、textarea、a

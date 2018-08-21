@@ -1,0 +1,258 @@
+[2018-08-15 09:05:02.738833] [INFO] [BaseObject.py] [get_options] [46] 获取所有选项：
+[2018-08-15 09:05:03.692888] [INFO] [BaseObject.py] [get_options] [53] ['局部补光不足', '延迟传回', '局部和全景补光不足', '局部横条纹', '局部竖条纹', '全景横条纹', '全景竖条纹', '局部和全景横条纹', '局部和全景竖条纹', '火花过爆', '惯导异常', '环境温度异常', '玻璃脏', '无火花', '火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差', '全景成像效果差', '局部帧率不足', '全景帧率不足', '定位错误', 'IP改变无局部', 'IP改变无全景', '连接异常无局部', '连接异常无全景', '红外图像差', '延迟处理', '全景补光不足']
+[2018-08-15 09:05:03.693888] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:05:03.702888] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小
+[2018-08-15 09:05:03.708889] [INFO] [Selector_new2.py] [select_by_text] [552] 通过选项文本设置选项
+[2018-08-15 09:06:09.548889] [INFO] [BaseObject.py] [get_options] [46] 获取所有选项：
+[2018-08-15 09:06:10.545946] [INFO] [BaseObject.py] [get_options] [53] ['局部补光不足', '延迟传回', '局部和全景补光不足', '局部横条纹', '局部竖条纹', '全景横条纹', '全景竖条纹', '局部和全景横条纹', '局部和全景竖条纹', '火花过爆', '惯导异常', '环境温度异常', '玻璃脏', '无火花', '火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差', '全景成像效果差', '局部帧率不足', '全景帧率不足', '定位错误', 'IP改变无局部', 'IP改变无全景', '连接异常无局部', '连接异常无全景', '红外图像差', '延迟处理', '全景补光不足']
+[2018-08-15 09:06:10.546946] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:06:10.555947] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小
+[2018-08-15 09:06:31.022117] [INFO] [Selector_new2.py] [select_by_text] [552] 通过选项文本设置选项
+[2018-08-15 09:08:27.734523] [INFO] [BaseObject.py] [get_options] [46] 获取所有选项：
+[2018-08-15 09:08:28.654576] [INFO] [BaseObject.py] [get_options] [53] ['局部补光不足', '延迟传回', '局部和全景补光不足', '局部横条纹', '局部竖条纹', '全景横条纹', '全景竖条纹', '局部和全景横条纹', '局部和全景竖条纹', '火花过爆', '惯导异常', '环境温度异常', '玻璃脏', '无火花', '火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差', '全景成像效果差', '局部帧率不足', '全景帧率不足', '定位错误', 'IP改变无局部', 'IP改变无全景', '连接异常无局部', '连接异常无全景', '红外图像差', '延迟处理', '全景补光不足']
+[2018-08-15 09:08:28.655576] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:08:28.662576] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小
+[2018-08-15 09:08:41.118289] [INFO] [Selector_new2.py] [select_by_text] [552] 通过选项文本设置选项
+[2018-08-15 09:11:39.942950] [INFO] [BaseObject.py] [get_options] [46] 获取所有选项：
+[2018-08-15 09:11:40.918006] [INFO] [BaseObject.py] [get_options] [53] ['局部补光不足', '延迟传回', '局部和全景补光不足', '局部横条纹', '局部竖条纹', '全景横条纹', '全景竖条纹', '局部和全景横条纹', '局部和全景竖条纹', '火花过爆', '惯导异常', '环境温度异常', '玻璃脏', '无火花', '火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差', '全景成像效果差', '局部帧率不足', '全景帧率不足', '定位错误', 'IP改变无局部', 'IP改变无全景', '连接异常无局部', '连接异常无全景', '红外图像差', '延迟处理', '全景补光不足']
+[2018-08-15 09:11:40.920006] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:11:40.929007] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小
+[2018-08-15 09:11:40.934007] [INFO] [Selector_new2.py] [select_by_text] [552] 通过选项文本设置选项
+[2018-08-15 09:11:44.870232] [INFO] [Selector_new2.py] [select_by_text] [557] 所设置的选项为：
+[2018-08-15 09:11:44.871232] [INFO] [Selector_new2.py] [select_by_text] [558] ['火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差']
+[2018-08-15 09:11:53.910749] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:11:53.937751] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小,局部曝光过度,全景曝光过度,雨天红外成像效果差,隧道红外成像效果差,局部成像效果差
+[2018-08-15 09:12:37.630698] [INFO] [Selector_new2.py] [select_key_search_order] [708] 在搜索框中输入关键字, 并根据orderlist选择对应选项
+[2018-08-15 09:18:22.949504] [INFO] [BaseObject.py] [get_options] [46] 获取所有选项：
+[2018-08-15 09:18:23.991564] [INFO] [BaseObject.py] [get_options] [53] ['局部补光不足', '延迟传回', '局部和全景补光不足', '局部横条纹', '局部竖条纹', '全景横条纹', '全景竖条纹', '局部和全景横条纹', '局部和全景竖条纹', '火花过爆', '惯导异常', '环境温度异常', '玻璃脏', '无火花', '火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差', '全景成像效果差', '局部帧率不足', '全景帧率不足', '定位错误', 'IP改变无局部', 'IP改变无全景', '连接异常无局部', '连接异常无全景', '红外图像差', '延迟处理', '全景补光不足']
+[2018-08-15 09:18:23.993564] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:18:24.004565] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小
+[2018-08-15 09:18:24.010565] [INFO] [Selector_new2.py] [select_by_text] [552] 通过选项文本设置选项
+[2018-08-15 09:18:27.946790] [INFO] [Selector_new2.py] [select_by_text] [557] 所设置的选项为：
+[2018-08-15 09:18:27.947790] [INFO] [Selector_new2.py] [select_by_text] [558] ['火花小', '局部曝光过度', '全景曝光过度', '雨天红外成像效果差', '隧道红外成像效果差', '局部成像效果差']
+[2018-08-15 09:18:33.658117] [INFO] [BaseObject.py] [get_value] [36] 获取当前选择框中的值
+[2018-08-15 09:18:33.684118] [INFO] [BaseObject.py] [get_value] [37] 当前选择框中的值为：火花小,局部曝光过度,全景曝光过度,雨天红外成像效果差,隧道红外成像效果差,局部成像效果差
+[2018-08-15 09:18:34.413160] [INFO] [Selector_new2.py] [select_key_search_text] [723] 在搜索框中输入关键字, 并根据textlist选择对应选项
+[2018-08-15 11:26:22.623316] [INFO] [Selector_new2.py] [select_by_order] [808] 通过元素在HTML中的顺序orderlist[]设置选项
+[2018-08-15 11:26:58.304357] [INFO] [Selector_new2.py] [select_by_order] [814] 所设置的选项为：
+[2018-08-15 11:27:24.910879] [INFO] [Selector_new2.py] [select_by_order] [815] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 11:28:10.318476] [INFO] [Selector_new2.py] [select_by_order] [808] 通过元素在HTML中的顺序orderlist[]设置选项
+[2018-08-15 11:40:38.136395] [INFO] [Selector_new2.py] [select_by_text] [843] 通过选项文本设置选项
+[2018-08-15 11:40:40.932555] [INFO] [Selector_new2.py] [select_by_text] [848] 所设置的选项为：
+[2018-08-15 11:40:40.934555] [INFO] [Selector_new2.py] [select_by_text] [849] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 11:42:55.922620] [INFO] [Selector_new2.py] [select_by_text] [843] 通过选项文本设置选项
+[2018-08-15 11:44:17.284562] [INFO] [Selector_new2.py] [select_by_text] [843] 通过选项文本设置选项
+[2018-08-15 11:54:23.538332] [INFO] [Selector_new2.py] [select_by_text] [854] 通过选项文本设置选项
+[2018-08-15 11:54:26.287489] [INFO] [Selector_new2.py] [select_by_text] [859] 所设置的选项为：
+[2018-08-15 11:54:26.288489] [INFO] [Selector_new2.py] [select_by_text] [860] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 11:54:38.977215] [INFO] [Selector_new2.py] [get_allselected] [872] 获取下拉列表中，已经选中的选项：
+[2018-08-15 11:54:39.239230] [INFO] [Selector_new2.py] [get_allselected] [878] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:14:40.761817] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 13:14:43.580979] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 13:14:43.581979] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:14:45.712101] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 13:14:45.928113] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:14:45.929113] [INFO] [Selector_new2.py] [deselect_by_order_list] [891] 通过元素在HTML中的顺序orderlist[]设置选项（取消已选选项）
+[2018-08-15 13:14:48.375253] [INFO] [Selector_new2.py] [deselect_by_order_list] [910] 所取消的选项为：
+[2018-08-15 13:14:48.376253] [INFO] [Selector_new2.py] [deselect_by_order_list] [911] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:18:49.048019] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 13:18:51.876180] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 13:18:51.876180] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:18:54.006302] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 13:18:54.225315] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:18:54.225315] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 13:18:56.730458] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 13:18:56.731458] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:28:14.296349] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 13:28:17.169513] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 13:28:17.170513] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:28:19.317636] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 13:28:19.501647] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:28:19.502647] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 13:28:21.569765] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 13:28:21.800778] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 13:28:21.801778] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 13:28:24.336923] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 13:28:24.336923] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 16:59:48.025850] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 16:59:50.824010] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 16:59:50.825010] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 16:59:52.975133] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 16:59:53.222147] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 16:59:53.223147] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 16:59:55.290265] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 16:59:55.473276] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 16:59:55.474276] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 16:59:58.043423] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 16:59:58.044423] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:00:57.085800] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:00:59.882960] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:00:59.884960] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:01:01.995080] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:01:02.248095] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:01:02.250095] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:01:04.329214] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:01:04.528225] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:01:04.530225] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:01:07.105373] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:01:07.107373] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:03:43.929343] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:03:46.721502] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:03:46.724502] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:03:48.883626] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:03:49.101638] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:03:49.103639] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:03:51.180757] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:03:51.348767] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:03:51.350767] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:03:53.802907] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:03:53.803907] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:05:21.699935] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:05:24.479094] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:05:24.480094] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:05:26.614216] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:05:26.810227] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:05:26.812227] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:05:28.911347] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:05:29.136360] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:05:29.138360] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:05:31.652504] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:05:31.653504] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:07:31.607365] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:07:34.370523] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:07:34.371523] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:07:36.536647] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:07:36.768660] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:07:36.770660] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:07:38.853779] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:07:39.184798] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:07:39.185798] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:07:41.722944] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:07:41.723944] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:10:29.838559] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:10:32.644720] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:10:32.646720] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:10:34.759841] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:10:34.944851] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:10:34.945851] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:10:37.043971] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:10:37.240983] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:10:37.241983] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:10:39.779128] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:10:39.780128] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:12:31.567522] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:12:34.381683] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:12:34.382683] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:12:36.531806] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:12:36.710816] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:12:36.711816] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:12:38.785935] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:12:38.964945] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:12:38.965945] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:12:41.515091] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:12:41.516091] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:14:55.999783] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:14:58.777942] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:14:58.778942] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:15:00.910064] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:15:01.158078] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:15:01.160078] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:15:03.260198] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:15:03.559215] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:15:03.561215] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:15:06.063358] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:15:06.065358] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:18:58.729666] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:19:01.523826] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:19:01.524826] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:19:03.633947] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:19:03.832958] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:19:03.833958] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:19:05.904076] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:19:06.068086] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:19:06.069086] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:19:08.620232] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:19:08.621232] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:38:55.288196] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:38:58.094356] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:38:58.095356] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:00.226478] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:39:00.425489] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:00.427489] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:39:02.512609] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:39:02.792625] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:02.793625] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:39:05.310769] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:39:05.312769] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:28.706107] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:39:31.471265] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:39:31.472265] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:33.655390] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:39:33.836400] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:33.837400] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:39:35.902519] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:39:36.219537] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:39:36.221537] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:39:38.708679] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:39:38.709679] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:40:27.704481] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:41:04.523587] [INFO] [Selector_new2.py] [select_by_text] [857] 通过选项文本设置选项
+[2018-08-15 17:41:07.317747] [INFO] [Selector_new2.py] [select_by_text] [862] 所设置的选项为：
+[2018-08-15 17:41:07.318747] [INFO] [Selector_new2.py] [select_by_text] [863] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:41:09.482871] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:41:09.685883] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:41:09.686883] [INFO] [Selector_new2.py] [deselect_all] [947] 取消所有已经选择的选项
+[2018-08-15 17:41:11.769002] [INFO] [Selector_new2.py] [get_allselected] [875] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:41:12.033017] [INFO] [Selector_new2.py] [get_allselected] [881] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:41:12.034017] [INFO] [Selector_new2.py] [deselect_by_text_list] [921] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:41:14.559161] [INFO] [Selector_new2.py] [deselect_by_text_list] [937] 所取消的选项为：
+[2018-08-15 17:41:14.561161] [INFO] [Selector_new2.py] [deselect_by_text_list] [938] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:41:14.620165] [INFO] [Selector_new2.py] [select_key_search_order] [996] 在搜索框中输入关键字, 并根据orderlist选择对应选项
+[2018-08-15 17:43:48.748981] [INFO] [Selector_new2.py] [select_by_text] [855] 通过选项文本设置选项
+[2018-08-15 17:43:51.519139] [INFO] [Selector_new2.py] [select_by_text] [860] 所设置的选项为：
+[2018-08-15 17:43:51.520139] [INFO] [Selector_new2.py] [select_by_text] [861] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:43:53.670262] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:43:53.870273] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:43:53.872274] [INFO] [Selector_new2.py] [deselect_all] [945] 取消所有已经选择的选项
+[2018-08-15 17:43:55.953393] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:43:56.184406] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:43:56.185406] [INFO] [Selector_new2.py] [deselect_by_text_list] [919] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:43:58.671548] [INFO] [Selector_new2.py] [deselect_by_text_list] [935] 所取消的选项为：
+[2018-08-15 17:43:58.673548] [INFO] [Selector_new2.py] [deselect_by_text_list] [936] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:43:58.739552] [INFO] [Selector_new2.py] [select_key_search_text] [1009] 在搜索框中输入关键字, 并根据textlist选择对应选项
+[2018-08-15 17:45:50.206871] [INFO] [Selector_new2.py] [select_by_text] [855] 通过选项文本设置选项
+[2018-08-15 17:45:52.991031] [INFO] [Selector_new2.py] [select_by_text] [860] 所设置的选项为：
+[2018-08-15 17:45:52.992031] [INFO] [Selector_new2.py] [select_by_text] [861] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:45:55.155154] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:45:55.437170] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:45:55.438171] [INFO] [Selector_new2.py] [deselect_all] [945] 取消所有已经选择的选项
+[2018-08-15 17:45:57.489288] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:45:57.655297] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:45:57.656297] [INFO] [Selector_new2.py] [deselect_by_text_list] [919] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:46:00.192442] [INFO] [Selector_new2.py] [deselect_by_text_list] [935] 所取消的选项为：
+[2018-08-15 17:46:00.193443] [INFO] [Selector_new2.py] [deselect_by_text_list] [936] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:46:00.241445] [INFO] [Selector_new2.py] [select_key_search_order] [994] 在搜索框中输入关键字, 并根据orderlist选择对应选项
+[2018-08-15 17:52:40.272326] [INFO] [Selector_new2.py] [select_by_text] [855] 通过选项文本设置选项
+[2018-08-15 17:52:43.053485] [INFO] [Selector_new2.py] [select_by_text] [860] 所设置的选项为：
+[2018-08-15 17:52:43.054485] [INFO] [Selector_new2.py] [select_by_text] [861] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:52:45.220609] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:52:45.466623] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:52:45.467623] [INFO] [Selector_new2.py] [deselect_all] [945] 取消所有已经选择的选项
+[2018-08-15 17:52:47.533741] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:52:47.700751] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:52:47.701751] [INFO] [Selector_new2.py] [deselect_by_text_list] [919] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:52:50.204894] [INFO] [Selector_new2.py] [deselect_by_text_list] [935] 所取消的选项为：
+[2018-08-15 17:52:50.206894] [INFO] [Selector_new2.py] [deselect_by_text_list] [936] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:52:55.594202] [INFO] [Selector_new2.py] [clear_button] [1014] 清除搜索框中的所有信息
+[2018-08-15 17:55:47.167015] [INFO] [Selector_new2.py] [select_by_text] [855] 通过选项文本设置选项
+[2018-08-15 17:55:50.011178] [INFO] [Selector_new2.py] [select_by_text] [860] 所设置的选项为：
+[2018-08-15 17:55:50.012178] [INFO] [Selector_new2.py] [select_by_text] [861] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:55:52.144300] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:55:52.342311] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:55:52.343312] [INFO] [Selector_new2.py] [deselect_all] [945] 取消所有已经选择的选项
+[2018-08-15 17:55:54.425431] [INFO] [Selector_new2.py] [get_allselected] [873] 获取下拉列表中，已经选中的选项：
+[2018-08-15 17:55:54.625442] [INFO] [Selector_new2.py] [get_allselected] [879] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:55:54.626442] [INFO] [Selector_new2.py] [deselect_by_text_list] [919] 通过选项文本设置选项（取消已选选项）
+[2018-08-15 17:55:57.178588] [INFO] [Selector_new2.py] [deselect_by_text_list] [935] 所取消的选项为：
+[2018-08-15 17:55:57.180588] [INFO] [Selector_new2.py] [deselect_by_text_list] [936] ['换线', '折线下半截短', '高弓多线', '普通画质好多线']
+[2018-08-15 17:56:02.568896] [INFO] [Selector_new2.py] [shutdown_button] [1022] 点击关闭按钮
