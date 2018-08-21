@@ -1,0 +1,129 @@
+Selector_new2.py
+    def relateID
+	class OptionSelector(Select)
+	    def __init__(self, webElement)
+		def getValue(self)
+		def getAllOption(self)
+    class AlarmCurveSelector(BaseSelector)
+	    def __init__(self,webElement)
+		def _options_el(self)
+		def _text_el(self)
+		def get_value(self)获取当前值
+		def select_by_index(self, code)
+	class AlarmTypeSelector(BaseSelector)
+	    def __init__(self,driver,id)
+		def _options_el(self)
+		def _text_el(self)
+		def input_message(self, text, mode='a')
+		def get_options(self)
+		def clear(self)
+		def isReadOnly(self)
+	class ExportSelector(BaseSelector)
+	    def __init__(self,webdriver)
+		def _options_el(self)
+		def _text_el(self)
+		def select_by_index(self, code)
+		def get_button_name(self)
+	class AlarmDealSelector(BaseSelector)    ----报警分析，处理建议
+	    def __init__(self, driver, id) 初始化                         
+		def _options_el(self)  获取到下拉列表的元素                     
+		def _text_el(self)  通过id定位到元素                          
+		def input_message(self, text, mode='a')  直接在文本框输入文本信息     
+		def clear(self)  清除文本框中的所有信息                       
+		def clearSelector(self)  清除--前置条件，进入了查询区域，输入了查询信息
+		def isReadOnly(self)  判定是否文本框为只读模式
+		get_value   获取当前的值（文本框中已经输入的值）
+		get_options  获取所有选项的值（未输入关键字）
+		select_by_visible_text  选择下拉列表（根据文本选择--未输入关键字）
+		select_by_order   选择下拉列表（根据order选择--未输入关键字）
+		def input_key_search(self, keyword)   在搜索框输入关键字keyword（返回查询结果）
+		def select_key_search_order(self, keyword, order)   在搜索框输入关键字：keyword，然后通过order（顺序1，2, 3....）选择对应的选项
+		def input_key_search_text(self, keyword, text)     在搜索框输入关键字：keyword，然后通过文本选择对应的选项
+		
+	复选框：
+	class DefectMarkSelector(BaseSelector)  
+		def __init__(self, driver, id) 初始化                          
+		def _options_el(self)  获取到下拉列表的元素                      
+		def _text_el(self)  通过id定位到元素                        
+		get_options           获取所有选项的值（未输入关键字）
+		get_value            获取当前的值（文本框中已经输入的值）   ------------多选时，也可以获取到值，值为string
+		def get_allselected     获取下拉列表中，已经选中的选项，并返回一个list（这个值和文本框中的值，不一定是一样的）  
+		select_by_visible_text     选择下拉列表（根据文本选择--未输入关键字） -----------只能实现单选
+		def _setSelected(self, option)         点击复选框，选中复选框操作                    
+		def _unsetSelected(self, option)        点击复选框，取消选中复选框操作               
+		def _select_by_order_list(self, options, orderlist)   根据orderlist选择选项            
+		def _select_by_text_list(self, options, textlist)	根据textlist选择选项               
+		def select_by_order（self, orderlist）    选择下拉列表（根据order（下拉列表选项顺序，从1开始）选择--未输入关键字）---参数为list   
+		def select_by_text(self, textlist):       选择下拉列表（根据text（下拉列表的文字）选择--未输入关键字）-------参数为list            
+		def deselect_by_order_list(self, orderlist)    取消选择--by order---参数为list          
+		def deselect_by_text_list(self, textlist)     取消选择--by  text---参数为list           
+		def deselect_all(self)        取消所有已经选择的选项                                   
+		def clear_button_text(self)    清除按钮（文本框右侧按钮）                             
+		def clear_button_search(self)   清除按钮（搜索框右侧按钮）                                                
+		def input_key_search(self, keyword)    在搜索框输入关键字keyword（返回查询结果）         
+		def select_key_search_order(self, keyword, orderlist)     输入关键字，然后根据orderlist选择对应选项        
+		def select_key_search_text(self, keyword, textlist)       输入关键字，然后根据textlist选择对应选项        
+		
+	class SceneSampleSelector(BaseSelector):
+		def __init__(self, driver, id) 初始化                    Y         
+		def _options_el(self)  获取到下拉列表的元素                 Y     
+		def _text_el(self)  通过id定位到元素                        Y
+		get_options           获取所有选项的值（未输入关键字）
+		get_value            获取当前的值（文本框中已经输入的值）   ------------多选时，也可以获取到值，值为string
+		def get_allselected     获取下拉列表中，已经选中的选项，并返回一个list（这个值和文本框中的值，不一定是一样的）  Y（与缺陷标志不一样）
+		select_by_visible_text     选择下拉列表（根据文本选择--未输入关键字） -----------只能实现单选
+		def _setSelected(self, option)         点击复选框，选中复选框操作                    Y（与缺陷标志不一样）
+		def _unsetSelected(self, option)        点击复选框，取消选中复选框操作               Y（与缺陷标志不一样）
+		def _select_by_order_list(self, options, orderlist)   根据orderlist选择选项            Y(与缺陷标志一样)
+		def _select_by_text_list(self, options, textlist)	根据textlist选择选项               Y(与缺陷标志一样)
+		def select_by_order（self, orderlist）    选择下拉列表（根据order（下拉列表选项顺序，从1开始）选择--未输入关键字）---参数为list   Y（与缺陷标志一样）
+		def select_by_text(self, textlist):       选择下拉列表（根据text（下拉列表的文字）选择--未输入关键字）-------参数为list            Y(与缺陷标志一样)
+		def deselect_by_order_list(self, orderlist)    取消选择--by order---参数为list          Y(与缺陷标志一样)
+		def deselect_by_text_list(self, textlist)     取消选择--by  text---参数为list           Y(与缺陷标志一样)
+		def deselect_all(self)        取消所有已经选择的选项                                    Y(与缺陷标志一样)
+		def clear_button_text(self)    清除按钮（文本框右侧按钮）                              N(没有该功能)
+		def clear_button_search(self)   清除按钮（搜索框右侧按钮）                                                
+		def input_key_search(self, keyword)    在搜索框输入关键字keyword（返回查询结果）         N(与缺陷标志元素定位不一样)
+		def select_key_search_order(self, keyword, orderlist)     输入关键字，然后根据orderlist选择对应选项        Y(与缺陷标志一样)
+		def select_key_search_text(self, keyword, textlist)       输入关键字，然后根据textlist选择对应选项         Y(与缺陷标志一样)
+		def shutdown_button(self)   右上角关闭按钮
+	
+	class DefectTypesSelector(BaseSelector):
+	    def __init__(self, driver, id) 初始化                           
+		def _options_el(self)  获取到下拉列表的元素                     
+		def _text_el(self)  通过id定位到元素                 
+        def _setSelected(self, option)      将未选选项置为选择状态（仅限于三级选项）		
+		def _unsetSelected(self, option)    将已选选项置为未选状态（仅限于三级选项）
+		def get_options           获取所有选项的值（未输入关键字）
+		def deselect_all(self)         通过缺陷类型的复选框按钮，取消所有选项
+		def select_all(self)            通过缺陷类型的复选框按钮，选中所有选项
+		def select_by_text(self, Dict)  根据text选择选项   param Dict: 字典{'弓网缺陷':['疑似燃弧', '疑似定位线夹燃弧']，'接触网缺陷':['接触线硬弯', '疑似绝缘器消弧缺失']}   如果列表为空[]，表示全选
+		def deselect_by_text(self, Dict)    根据text取消选项  参数同上
+		def input_key_search(self, keyword)     在搜索框输入关键字keyword（返回查询结果）
+		def select_key_search_text(self, keyword, Dict)   在搜索框输入关键字：keyword，然后通过字典选择对应的选项（同select_by_text）
+		def clear_button_text(self)     清除按钮（文本框右侧按钮）
+		def clear_button_search(self)   清除按钮（搜索框右侧按钮）
+		
+	class StatusSelector(BaseSelector):
+	    def __init__(self, driver, id) 初始化                           
+		def _options_el(self)  获取到下拉列表的元素                     
+		def _text_el(self)  通过css定位到元素
+		def select_all(self)   全选按钮
+		def deselect_all(self)      全不选按钮
+		def close_button(self)    关闭按钮（前提：下拉列表弹出）
+		def _setSelected(self, option)   将未选选项置为选择状态
+		def _unsetSelected(self, option)    将已选选项置为未选状态
+		def select_by_text_list(self, textlist) 选择下拉列表（根据text（下拉列表的文字）选择）-------参数为list
+		def deselect_by_text_list(self, textlist)   选择下拉列表（根据text（下拉列表的文字）取消选择）-------参数为list
+		def get_value(self)        获取当前输入框中的值（重写了父类中的方法）
+		
+		
+
+
+
+	
+		
+		
+
+
+		
